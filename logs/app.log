@@ -1,0 +1,16 @@
+2024-12-13 18:30:22,444 INFO __main__ MainThread : Starting FastAPI server...
+2024-12-13 18:32:50,186 INFO __main__ MainThread : Incoming call received.
+2024-12-13 18:32:50,187 INFO __main__ MainThread : Form data received: FormData([])
+2024-12-13 18:32:50,187 INFO __main__ MainThread : Call from Unknown to Unknown
+2024-12-13 18:32:50,187 INFO __main__ MainThread : Returning Twilio VoiceResponse.
+2024-12-13 18:38:28,210 INFO __main__ MainThread : Incoming call received.
+2024-12-13 18:38:28,210 INFO __main__ MainThread : Form data received: FormData([])
+2024-12-13 18:38:28,210 INFO __main__ MainThread : Call from Unknown to Unknown
+2024-12-13 18:38:28,210 INFO __main__ MainThread : Returning Twilio VoiceResponse.
+2024-12-13 18:51:00,939 INFO __main__ MainThread : Starting FastAPI server...
+2024-12-13 18:55:56,899 INFO __main__ MainThread : Starting FastAPI server...
+2024-12-13 18:56:37,473 INFO __main__ MainThread : Recording received.
+2024-12-13 18:56:37,473 INFO __main__ MainThread : Form data received: FormData([])
+2024-12-13 18:56:37,474 INFO __main__ MainThread : Received recording from Unknown: 
+2024-12-13 18:56:37,474 INFO __main__ MainThread : Processing recording (placeholder).
+2024-12-13 18:56:37,474 INFO __main__ MainThread : Returning Twilio VoiceResponse for recording.
